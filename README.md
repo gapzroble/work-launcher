@@ -1,6 +1,6 @@
 # work-launcher
 
-i3 launcher
+### i3 launcher
+Exit if weekends or holiday
 
-TODO:
-[] Exit if weekends or holiday
+ex. `exec work-launcher && slack`
